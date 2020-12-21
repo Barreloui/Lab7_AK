@@ -1,2 +1,2 @@
 # Лабораторна робота №7
-![alt text](images/1.png
+![alt text](images/1.png "Описание будет тут")
